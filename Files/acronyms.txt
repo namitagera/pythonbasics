@@ -1,0 +1,5 @@
+IDE - integrated development environment
+OOP - object oriented programming
+UX - user experience
+JSON - javascript object notation
+FIFO - first in first out
